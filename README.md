@@ -86,10 +86,18 @@ Bought 5 useless gadgets at midnight 😭
 
 ---
 
+Sure, here’s a playful little section you can drop into your README:
+
+---
+
+**Note:** I handled all the **ML/AI magic** behind the Regret-o-Meter, while the frontend, styling, and dashboard were whipped up by AI. This is just a **fun project on a chilly December afternoon**—not professional, just me playing around with chaos and code.
+
+---
+
+You can stick this under the **Introduction** or right before **License**.
+
+
 ## License
 
 MIT License – because chaos should be free.
 
----
-
-If you want, I can also write a **super short 20-word description** for your GitHub repo page so it’s catchy and quirky. Want me to do that?
